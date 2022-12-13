@@ -35,7 +35,7 @@
     "@ant-design/icons": "4.2.1",
     "antd": "4.4.0",
     "csv-parse": "4.10.1",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "file-saver": "2.0.2",
     "preact": "10.4.4",
     "puppeteer-core": "4.0.1",
